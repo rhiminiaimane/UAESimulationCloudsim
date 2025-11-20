@@ -1,0 +1,2 @@
+javac -classpath jars/cloudsim-3.0.3.jar examples/org/cloudbus/cloudsim/examples/custom/UAECloudSimulation.java
+java -classpath jars/cloudsim-3.0.3.jar:examples org.cloudbus.cloudsim.examples.custom.UAECloudSimulation
