@@ -1,5 +1,3 @@
-Expliquez-moi d'une manière simple, direct & court le nombre de modele dans ce code, quelle sont ces modele, difference entre eux.
-
 package org.cloudbus.cloudsim.examples.custom;
 
 import java.text.DecimalFormat;
